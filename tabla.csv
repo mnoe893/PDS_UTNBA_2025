@@ -1,0 +1,5 @@
+Ventana,Sesgo Amplitud,Varianza Amplitud,Sesgo Frecuencia (π),Varianza Frecuencia
+Rectangular,0.39,0.105,79.09,1.404
+Flattop,0.2,0.001,79.1,1.509
+Blackman-Harris,0.24,0.009,79.09,1.409
+Cosine,0.29,0.052,79.09,1.394
